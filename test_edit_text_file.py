@@ -6,7 +6,7 @@ from unittest import result
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 # Put the name of your text file here
-src_doc_name = "This is why you don’t feel inspired. (video script)"
+src_doc_name = "test"
 src_doc_type = ".txt"
 src_doc_f_name = src_doc_name + src_doc_type
 src_doc_dir = os.path.join(dir_path, src_doc_f_name)
