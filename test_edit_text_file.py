@@ -1,6 +1,4 @@
 import os
-from re import I
-from unittest import result
 
 # Path of this file
 dir_path = os.path.dirname(os.path.realpath(__file__))
